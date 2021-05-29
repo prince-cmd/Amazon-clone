@@ -1,3 +1,10 @@
+
+
+
+
+
+
+
 module.exports = {
   mode: "jit",
   purge: [
@@ -20,3 +27,4 @@ module.exports = {
   },
   plugins: [require("@tailwindcss/line-clamp")],
 };
+
